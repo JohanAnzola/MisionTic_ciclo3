@@ -1,0 +1,26 @@
+.Background-red{
+    background-color: rgb(116, 17, 17);
+
+}
+
+.watch-container{
+    background-color: white;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tablero{
+    text-align: center;
+    font-size: 70px;
+}
+
+.watch-buttons{
+    display: flex;
+    justify-content: space-around;
+}
